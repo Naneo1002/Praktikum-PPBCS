@@ -1,2 +1,6 @@
-# auth_example_1
-Untuk memenuhi Tugas Praktikum Pertemuan 9 Mata Kuliah Pemrograman Perangkat Bergerak Berbasis Client Server
+# Identitas Mahasiswa
+### Nama: Neo Sheyka Isnaeni
+### NIM: 230102105
+### Kelas: IF23B
+### Mata Kuliah: Pemrograman Perangkat Bergerak Berbasis Client Server
+### Dosen Pengampu: - hhh
