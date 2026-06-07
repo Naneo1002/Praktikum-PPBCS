@@ -48,14 +48,14 @@ class _HomeScreenState extends State<HomeScreen> {
             TextField(
               controller: _dataController,
               decoration: const InputDecoration(
-                labelText: 'Masukkan data baru',
+                labelText: 'Masukkan nomor lotre',
                 border: OutlineInputBorder(),
               ),
             ),
             const SizedBox(height: 10),
             ElevatedButton(
               onPressed: _addData,
-              child: const Text('Simpan Data'),
+              child: const Text('Simpan Nomor'),
             ),
             const SizedBox(height: 20),
             const Text(
